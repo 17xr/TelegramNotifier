@@ -1,2 +1,4 @@
-# TelegramNotifier
-A small tool to send a notification when you receive a Telegram message (Linux/Windows/MacOS)
+- A small tool to send you a notification when you receive a Telegram message
+- The user will be notified about messages received from private chats
+- Can be modified to notify the user about messages received from group chats
+- Supports Windows, macOS, and Linux
